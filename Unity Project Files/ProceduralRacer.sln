@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProceduralRacer.CSharp", "ProceduralRacer.CSharp.csproj", "{15A24129-F973-6CEA-C213-6CF465E027DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15A24129-F973-6CEA-C213-6CF465E027DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15A24129-F973-6CEA-C213-6CF465E027DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15A24129-F973-6CEA-C213-6CF465E027DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15A24129-F973-6CEA-C213-6CF465E027DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
